@@ -55,3 +55,6 @@ and phone number.
 ## View
 Display Menu
  Display calculated price
+
+### b. Application Sitemap
+![Screenshot 2022-06-03 021438](https://user-images.githubusercontent.com/104088662/171698631-e88a2c77-772c-48f0-9558-aa719b00a802.png)
