@@ -3,7 +3,6 @@
 ### Abdelhadi Hadj Sahraoui 1919059
 ### Elgaafarawy Tawfek Wafek Mohamed 1720305
 ### Alsharif Mohammad Marwan Ahmad 1828937
-### Shariful Islam 1619061
 
 
 
@@ -42,8 +41,8 @@ c. Product Deliver Method – User need to select how they are going to enjoy
 their food which is dine in, take away or they deliver it to their doorsteps.
 d. Payment – Choose payment method either cash on delivery (COD), Online
 banking or Debit Card. 
-## ER Diagrams 
-![Screenshot 2022-06-03 021011](https://user-images.githubusercontent.com/104088662/171697936-837384d8-d2ea-49bf-a7e4-b866c2e5fbbf.png)
+
+
 
 ### Controller
 Accept input from the customer class which allows the user to input their name, address,
@@ -56,5 +55,5 @@ and phone number.
 Display Menu
  Display calculated price
 
-### b. Application Sitemap
-![Screenshot 2022-06-03 021438](https://user-images.githubusercontent.com/104088662/171698631-e88a2c77-772c-48f0-9558-aa719b00a802.png)
+
+
